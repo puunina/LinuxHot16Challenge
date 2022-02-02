@@ -1,0 +1,62 @@
+# AUTOR: TWOJEIMIE
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. pwd
+# lokalizacja w systemie
+
+# 2. cd
+# zmiana katalogu
+
+# 3. break
+# wyjcie z petli
+
+# 4. nmap
+# otwarte porty
+
+# 5. reboot
+# ponowne uruchomienie systemu
+
+# 6. cp
+# kopiowanie
+
+# 7. ls
+# lista plikow
+
+# 8. mkdir
+# utworzenie katalogu
+
+# 9. rmdir
+# usuniecie katalogu
+
+# 10. mv
+# przeniesienie
+
+# 11. rm
+# usuniecie pliku
+
+# 12. find
+# wyszukiwanie danego pliku
+
+# 13. kill
+# koczy proces
+
+# 14. ps
+# listuje uruchomione procesy
+
+# 15. ping
+# pinguje polaczenia z danym ip
+
+# 16. passwd
+# zmiana hasla
+
+
+
+
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# Szturm na AWS - www: https://zajecia-programowania-xd.pl/szturm_na_aws
+# Szturm na AWS - fb: https://www.facebook.com/Szturm-na-AWS-109216351659123
+# Szturm na AWS - discord: https://discord.gg/46JVvHgzqz
